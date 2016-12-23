@@ -1,0 +1,9 @@
+http://www.statisticshowto.com/t-test/
+
+https://en.wikipedia.org/wiki/Descriptive_statistics
+
+https://en.wikipedia.org/wiki/Stroop_effect
+http://support.minitab.com/en-us/minitab/17/topic-library/basic-statistics-and-graphs/hypothesis-tests/tests-of-means/how-are-dependent-and-independent-samples-different/
+
+Most helpful : 
+http://stattrek.com/hypothesis-test/paired-means.aspx?Tutorial=AP
