@@ -1,5 +1,5 @@
 # Test-a-perpetual-phenomenon---Udacity
-This project uses Inferential statistics (Mainly t-statistics) to test if there is a significant different i.e if there is a phenomenon. 'UdacityAssignment.pdf' contains the report on Stroop tests.
+This project uses Inferential statistics (Mainly t-statistics) to test if there is a significant different in different version of Stroop test i.e if there is a phenomenon. 'UdacityAssignment.pdf' contains the report on Stroop tests.
 
 [Stroop test](https://faculty.washington.edu/chudler/java/ready.html).
 
